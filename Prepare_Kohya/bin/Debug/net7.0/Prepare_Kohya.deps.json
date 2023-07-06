@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Prepare_Kohya/1.0.0": {
+        "runtime": {
+          "Prepare_Kohya.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prepare_Kohya/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

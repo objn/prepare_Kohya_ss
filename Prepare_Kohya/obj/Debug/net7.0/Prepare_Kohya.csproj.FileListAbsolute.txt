@@ -1,0 +1,15 @@
+C:\Users\objna\source\repos\Prepare_Kohya\Prepare_Kohya\bin\Debug\net7.0\Prepare_Kohya.exe
+C:\Users\objna\source\repos\Prepare_Kohya\Prepare_Kohya\bin\Debug\net7.0\Prepare_Kohya.deps.json
+C:\Users\objna\source\repos\Prepare_Kohya\Prepare_Kohya\bin\Debug\net7.0\Prepare_Kohya.runtimeconfig.json
+C:\Users\objna\source\repos\Prepare_Kohya\Prepare_Kohya\bin\Debug\net7.0\Prepare_Kohya.dll
+C:\Users\objna\source\repos\Prepare_Kohya\Prepare_Kohya\bin\Debug\net7.0\Prepare_Kohya.pdb
+C:\Users\objna\source\repos\Prepare_Kohya\Prepare_Kohya\obj\Debug\net7.0\Prepare_Kohya.csproj.AssemblyReference.cache
+C:\Users\objna\source\repos\Prepare_Kohya\Prepare_Kohya\obj\Debug\net7.0\Prepare_Kohya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\objna\source\repos\Prepare_Kohya\Prepare_Kohya\obj\Debug\net7.0\Prepare_Kohya.AssemblyInfoInputs.cache
+C:\Users\objna\source\repos\Prepare_Kohya\Prepare_Kohya\obj\Debug\net7.0\Prepare_Kohya.AssemblyInfo.cs
+C:\Users\objna\source\repos\Prepare_Kohya\Prepare_Kohya\obj\Debug\net7.0\Prepare_Kohya.csproj.CoreCompileInputs.cache
+C:\Users\objna\source\repos\Prepare_Kohya\Prepare_Kohya\obj\Debug\net7.0\Prepare_Kohya.dll
+C:\Users\objna\source\repos\Prepare_Kohya\Prepare_Kohya\obj\Debug\net7.0\refint\Prepare_Kohya.dll
+C:\Users\objna\source\repos\Prepare_Kohya\Prepare_Kohya\obj\Debug\net7.0\Prepare_Kohya.pdb
+C:\Users\objna\source\repos\Prepare_Kohya\Prepare_Kohya\obj\Debug\net7.0\Prepare_Kohya.genruntimeconfig.cache
+C:\Users\objna\source\repos\Prepare_Kohya\Prepare_Kohya\obj\Debug\net7.0\ref\Prepare_Kohya.dll
