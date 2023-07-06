@@ -1,2 +1,3 @@
-# prepare_Kohya_ss
-create a structure folder for train model kohya_ss
+# Prepare Folder Kohya_ss
+Prepare structure folder for train model kohya_ss to you
+Making your like is easy!!
